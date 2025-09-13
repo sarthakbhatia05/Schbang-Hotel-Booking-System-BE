@@ -15,7 +15,7 @@ A simple Node.js + TypeScript + MongoDB backend for hotel searching.
 ## Setup
 1. **Clone the repo**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/sarthakbhatia05/Schbang-Hotel-Booking-System-BE.git
    cd Schbang-Assessment
    ```
 2. **Install dependencies**
